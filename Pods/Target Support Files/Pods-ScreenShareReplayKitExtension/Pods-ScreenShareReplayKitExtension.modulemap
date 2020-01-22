@@ -1,0 +1,6 @@
+framework module Pods_ScreenShareReplayKitExtension {
+  umbrella header "Pods-ScreenShareReplayKitExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
